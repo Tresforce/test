@@ -1,0 +1,14 @@
+node_modules
+build
+dist
+test
+.idea/*
+
+coverage
+.nyc_output
+*.log
+
+yarn.lock
+.env
+.history
+tmp/*

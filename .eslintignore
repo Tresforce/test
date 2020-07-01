@@ -1,0 +1,6 @@
+jest.*
+prettierrc.js
+webpack.config.js
+docs/
+coverage/
+build/
